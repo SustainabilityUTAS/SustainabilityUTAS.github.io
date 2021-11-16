@@ -55,8 +55,9 @@
 				"time": "Take 15 mins to relax on the couches, grab a free hot drink, browse the posters or book swap library to unwind",
 				"image": "./img/image_SB.3.jpg",
 				"image_alt": "Tasmanian University Union contact centre.",
-				"SDG1": 5,
-				"SDG2": 11
+				"SDG1": 3,
+				"SDG2": 5,
+				"SDG3": 11
 			},
 			"geometry": {
 				"type": "Point",

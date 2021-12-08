@@ -56,7 +56,7 @@
 				"image": "./img/image_SB.3.jpg",
 				"image_alt": "Tasmanian University Union contact centre.",
 				"SDG1": 3,
-				"SDG2": 5,
+				"SDG2": 5
 			},
 			"geometry": {
 				"type": "Point",

@@ -316,27 +316,6 @@
 			"type": "Feature",
 			"properties": {
 				"campus": "SB",
-				"id": 14,
-				"name": "Filtered water station",
-				"description": "The University of Tasmania provides staff and students with clean drinking water in all tea rooms and through water refill stations across the campus. Staff and students are encouraged to use reusable bottles at water refill stations around the campus instead of purchasing single use plastic bottles.<br> In 2019, it was estimated that on average students have been filling up over fifty 750ml bottles every day over the last 10 years from a single water station. That’s 19,653 single use plastic bottles saved from going to landfill annually. <br><br> Learn more about how the <a href='https://www.utas.edu.au/infrastructure-services-development/sustainability/water' target='_blank'> University manages its  water resources </a> and ways in which you can save water.",
-				"time": "",
-				"image": "./img/image_SB.14.1.jpg",
-				"image_alt": "The water filter station near Lazenby’s.",
-				"SDG1": 6,
-				"SDG2": 12
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					147.3267125,
-					-42.9034422
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"campus": "SB",
 				"id": 15,
 				"name": "Recycling Wall",
 				"description": "In December 2019 UTAS, with support from Hobart City Council, set up a pilot recycling wall for difficult to recycle items in the Social Sciences building on the Sandy Bay campus. At this recycling wall you can deposit toner cartridges, batteries, small e-waste, mobile phones, plastic bottle tops, air fresheners and refills, toothbrushes and paste tubes, disposable razors and packaging, pens, markers and highlighters. Given the immediate success of the pilot wall, the service is expanding to more southern campuses and buildings. <a href='https://www.google.com/maps/d/viewer?mid=1_-CHKYwt9Y1Qsa_Gg4TukCdzhEnd-hGL&ll=-42.00581433129185%2C146.617531&z=7/'target='_blank'>Use this map to find your nearest recycling wall.</a> Or, if you want to know more about the streams and recyclers, <a href='https://www.utas.edu.au/__data/assets/pdf_file/0003/1447005/Recycling-Wall-User-Guide-FINAL.pdf/'target='_blank'>click here to view the Recycling Walls User Guide.</a>",

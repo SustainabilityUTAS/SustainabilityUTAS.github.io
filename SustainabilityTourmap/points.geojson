@@ -240,7 +240,8 @@
 				"time": "Take 20 mins to explore the geological artefacts, rocks and other features of the building.",
 				"image": "./img/image_SB.11.jpg",
 				"image_alt": "Sign for the UTAS Earth Science, Geography and Environmental Studies building.",
-				"SDG1": 9
+				"SDG1": 9,
+				"SDG2": 15
 			},
 			"geometry": {
 				"type": "Point",

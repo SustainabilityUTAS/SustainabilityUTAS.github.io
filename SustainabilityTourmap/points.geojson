@@ -571,7 +571,9 @@
 				"time": "",
 				"image": "./img/image_HC.3.jpg",
 				"image_alt": "A manicured green lawn, a few scattered large trees and a path leading to the Nursing Facility in Domain House.",
-				"SDG1": 11
+				"SDG1": 3,
+				"SDG2": 11,
+				"SDG3": 15
 			},
 			"geometry": {
 				"type": "Point",

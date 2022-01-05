@@ -529,7 +529,8 @@
 				"image": "./img/image_HC.2.jpg",
 				"image_alt": "The Medical Science 2 facility with blue and green glass and features to capture sunlight.",
 				"SDG1": 7,
-				"SDG2": 9
+				"SDG2": 9,
+				"SDG3": 11
 			},
 			"geometry": {
 				"type": "Point",

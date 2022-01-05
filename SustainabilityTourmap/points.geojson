@@ -739,7 +739,9 @@
 				"description": "The Student Services building is your one stop shop for all your University related enquiries. Services offered include course information, administrative support and personal support. <br><br>At UTAS we celebrate inclusion and diversity . In the courtyard you will see a rainbow coloured plant box with the words Think, Accept, Celebrate and Learn as a visualisation display promoting inclusion.",
 				"time": "",
 				"image": "./img/image_NH.4.jpg",
-				"image_alt": "Red, black and white building with modern architecture glass features. Outside the building is a sunny open coutyard with a rainbow coloured planter box and the words Think, Accept, Celebrate and Learn printed on the colours to celebrate diversity and inclusion."
+				"image_alt": "Red, black and white building with modern architecture glass features. Outside the building is a sunny open coutyard with a rainbow coloured planter box and the words Think, Accept, Celebrate and Learn printed on the colours to celebrate diversity and inclusion.",
+				"SDG1": 4,
+				"SDG2": 5
 			},
 			"geometry": {
 				"type": "Point",

@@ -756,11 +756,11 @@
 			"properties": {
 				"campus": "NH",
 				"id": 5,
-				"name": "Tasmanian University Union (TUU)",
-				"description": "Sustainability is about our social, personal and physical wellbeing as much as it is about environmental wellbeing. The Tasmanian University Union (TUU) supports all the above. <br><br>The TUU supports student societies and sports clubs that champion sustainability within the University and wider community. Being a part of a club or society is an excellent source of physical, mental, social and cultural wellbeing for students. <a href='https://tuu.com.au/clubs-societies/'target='_blank'> Learn more about the clubs and societies available in your Campus here </a>.<br><br> The TUU building hosts the Student Lounge and a ‘reuse centre’ (both near the building entrance). Use the ‘reuse centre’ to donate unwanted items such as books or stationery for others to reuse or collect items that you need. Here you will also find a drop off point for recycling batteries and mobile phones.",
+				"name": "Tasmanian University Student Association (TUSA)",
+				"description": "Sustainability is about our social, personal and physical wellbeing as much as it is about environmental wellbeing. The Tasmanian University Student Association (TUSA) supports all the above. <br><br>TUSA supports student societies and sports clubs that champion sustainability within the University and wider community. Being a part of a club or society is an excellent source of physical, mental, social and cultural wellbeing for students. <a href='https://www.tusa.org.au/clubs-societies/'target='_blank'> Learn more about the clubs and societies available in your Campus here </a>.<br><br> The TUSA building hosts the Student Lounge and a ‘reuse centre’ (both near the building entrance). Use the ‘reuse centre’ to donate unwanted items such as books or stationery for others to reuse or collect items that you need. Here you will also find a drop off point for recycling batteries and mobile phones.",
 				"time": "",
 				"image": "./img/image_NH.5.jpg",
-				"image_alt": "Grey building with glass entrance, above the entrance there is a white sign with the red TUU column logo and the word TUU in black.",
+				"image_alt": "Grey building with glass entrance, above the entrance there is a white sign with the red TUSA column logo and the word TUSA in black.",
 				"SDG1": 7,
 				"SDG2": 11,
 				"SDG3": 12

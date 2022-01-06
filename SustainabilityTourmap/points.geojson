@@ -1045,7 +1045,8 @@
 				"name": "Inveresk street art",
 				"description": "Seeing a life-sized Rhino outside the Annex theatre might seem a bit strange and out of place but that was the intention of Canadian artist Roger Gaudreau who designed Mavis. <br><br> Mavis is five-foot stainless-steel structure filled with local blue stone. Roger’s intentions for Mavis is to start a conversation around the displacement on animals into foreign habitat due to climate change. <br> Climate change has accelerated the movement of animals around the world. It is estimated that marine species are moving at a much faster rate than terrestrial animals. This creates a whole new array of ecological problems such as extinction, exposure to new diseases, local niche changes, birth of hybrids with interbreeding and more <a href='https://www.nationalgeographic.com/news/2017/04/climate-change-species-migration-disease/' target='_blank'>(National Geographic)</a>. <br><br><br> Update: Mavis had to be moved temporarily due to the current construction at Inveresk.",
 				"image": "./img/image_IR.2.jpg",
-				"image_alt": "A life-sized stainless stell rhino filled with stone standing outside a yellow and red building called The Annexe."
+				"image_alt": "A life-sized stainless stell rhino filled with stone standing outside a yellow and red building called The Annexe.",
+				"SDG1": 13
 			},
 			"geometry": {
 				"type": "Point",

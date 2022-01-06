@@ -778,11 +778,11 @@
 			"properties": {
 				"campus": "NH",
 				"id": 6,
-				"name": "sTUUdent op-shop",
-				"description": "Whenther you have just finished University and looking to donate items or you are starting out and need linen or kitchenware, the TUU op-shop at Newnham is the answer to your dilemma! <br><br> 2019 TUU Environment Officer Eliza Kimlin created the op-shop to support her fellow students. For a gold coin donation you can walk away with as many items as you want. <br><br> Don’t forget to donate or return items in good condition for the next person to use.",
+				"name": "TUSA op-shop",
+				"description": "Whenther you have just finished University and looking to donate items or you are starting out and need linen or kitchenware, the TUSA op-shop at Newnham is the answer to your dilemma! <br><br> 2019 TUSA Environment Officer Eliza Kimlin created the op-shop to support her fellow students. For a gold coin donation you can walk away with as many items as you want. <br><br> Don’t forget to donate or return items in good condition for the next person to use.",
 				"time": "",
 				"image": "./img/image_NH.6.jpg",
-				"image_alt": "A room with bookshelves filled with kithen ware, cutlery and crockery. Towards the back of the room near window there is a clothes rack with a few donated clothes. On the table there is a sign that reads 'Welcome to the sTUUdent op-shop. Please show your student ID before taking anything'.",
+				"image_alt": "A room with bookshelves filled with kithen ware, cutlery and crockery. Towards the back of the room near window there is a clothes rack with a few donated clothes. On the table there is a sign that reads 'Welcome to the TUSA op-shop. Please show your student ID before taking anything'.",
 				"SDG1": 12
 			},
 			"geometry": {
@@ -799,11 +799,13 @@
 				"campus": "NH",
 				"id": 7,
 				"name": "The Walk",
-				"description": "Most catering for the University of Tasmania is currently operated by Chartwells who have committed to increasing sustainability within their services. <br><br> All campus cafes are ‘Responsible Cafes’, offering a discount if you bring your own mug. To encourage the use of reusable cups, Chartwell offer a free coffee with every reusable cup purchased.<br><br> Chartwell cafes offer compostable cutlery and packaging. The Grove and The Walk cafes send their compostable cutlery and food waste to a commercial composting facility. Saltz cafe, on the other hand composts their kitchen waste on site with the help of a student society. To further reduce plastic waste to landfill, Chartwell does not offer plastic straws anymore and have replaced single use condiment sachets where possible. <br><br> To reduce their food waste on a local scale left over food from events is supplied to City Mission charity where appropriate. On a national scale the Compass group donates both cash and food to Oz harvest. <a href='https://www.ozharvest.org/tag/compass-group' target='_blank'>Oz harvest</a> is a food rescue organization operating in Australia. They collect left over food from partnered organizations and deliver it to vulnerable communities and charities.",
+				"description": "Catering vendors at the University of Tasmania have committed to increasing sustainability within their services. <br><br> All campus cafes are ‘Responsible Cafes’, offering a discount if you bring your own mug. <br><br> Cafes at UTAS offer compostable cutlery and packaging which is sent along with food waste to a commercial composting facility. Saltz cafe, on the other hand composts their kitchen waste on site with the help of a student society. To further reduce plastic waste to landfill, UTAS cafes do not offer plastic straws anymore and have replaced single use condiment sachets where possible. <br><br> To reduce their food waste on a local scale left over food from events is supplied to City Mission charity where appropriate. On a national scale the Compass group donates both cash and food to Oz harvest. <a href='https://www.compass-group.com.au/compass-group-celebrates-another-year-in-partnership-with-ozharvest/' target='_blank'>Oz harvest</a> is a food rescue organization operating in Australia. They collect left over food from partnered organizations and deliver it to vulnerable communities and charities.",
 				"time": "",
 				"image": "./img/image_NH.7.jpg",
 				"image_alt": "A courtyard with trees and lamps in front of a cream coloured building which is home to The Walk.",
-				"SDG1": 12
+				"SDG1": 2,
+				"SDG2": 12,
+				"SDG3": 13
 			},
 			"geometry": {
 				"type": "Point",

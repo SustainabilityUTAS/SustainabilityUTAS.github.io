@@ -1106,7 +1106,10 @@
 				"description": "The Rural Clinical School in Burnie has a food garden with native edible plants that is maintained and harvested by staff and students. The garden is educational with well labelled plants, produces food, provides a relaxing environment for those at the School and a good view for the patients in the neighbouring hospital. At this School, a store of reusable containers is kept in the student lounge and food from events is frozen in the communal fridge for students to access at any time. The School has bicycle racks and regularly hosts Ride2Work breakfasts and their student led sustainability club is proactive in running fun events.",
 				"image": "./img/image_CC.1.jpg",
 				"image_alt": "A white pipe with nine pots of herbs grown by Rural Clinical School students at their Atrium Apartments.",
-				"time": ""
+				"time": "",
+				"SDG1": 2,
+				"SDG2": 3,
+				"SDG3": 12
 			},
 			"geometry": {
 				"type": "Point",
@@ -1124,7 +1127,9 @@
 				"name": "The Atrium Apartments",
 				"description": "Students living in the Atrium Apartments can prevent food and garden waste to landfill by composting their materials in the onsite compost bin. The compost bin was set up by SIPS students in 2019 with mentorship and support from Dr Nick Towle from the Rural Clinical School. The compost bin materials were provided by the Rural Clinical School. Students at this site can also grow their own herbs in a self-watering herb garden.",
 				"image": "./img/image_CC.2.jpg",
-				"image_alt": "A round, black compost bin for food and garden materials set up by Rural Clinical School students through the SIPS program at their Atrium Apartments."
+				"image_alt": "A round, black compost bin for food and garden materials set up by Rural Clinical School students through the SIPS program at their Atrium Apartments.",
+				"SDG1": 2,
+				"SDG2": 11
 			},
 			"geometry": {
 				"type": "Point",
@@ -1142,7 +1147,9 @@
 				"name": "Cradle Coast Campus",
 				"description": "The TUU Cradle Coast has created a mug library for students and staff to borrow, wash up and bring back their mugs. Did you know that all cafés on campus offer a discount if you bring your own mug? If you are buying lunch on campus you can also reduce single-use plastic waste by bringing your own container to the café.   The Cradle Coast Campus has two bicycle racks for cyclists and is accessible via public transport Metro buses.   The Campus is also home to a small food garden in the central courtyard which is run as a teaching space for Bachelor of Education students.",
 				"image": "./img/image_CC.3.jpg",
-				"image_alt": "One of the food garden beds used as a teaching space for Bachelor of Education students at Cradle Coast Campus."
+				"image_alt": "One of the food garden beds used as a teaching space for Bachelor of Education students at Cradle Coast Campus.",
+				"SDG1": 3,
+				"SDG2": 12
 			},
 			"geometry": {
 				"type": "Point",
@@ -1162,8 +1169,8 @@
 				"time": "",
 				"image": "./img/image_CC.4.jpg",
 				"image_alt": "Metallic grey building with modern architectural features by a road with a black sign with the writing Maker's Workshop in white text.",
-				"SDG1": "",
-				"SDG2": "",
+				"SDG1": 9,
+				"SDG2": 11,
 				"accessibility1": ""
 			},
 			"geometry": {

@@ -863,7 +863,7 @@
 				"name": "Bicycle hub",
 				"description": "The Newnham bike hub was designed in collaboration with the School of Architecture and Design through a curricular in-class SIPS project in 2013. The bike hub provides secure bike storage, solar-powered bicycle charging stations and a repair stand.<br> The <a href='https://www.utas.edu.au/campuses/campus-maps' target='_blank'> University's Campus Maps </a> include information about bike parking locations, water refill stations and shower facilities.<br><br> <a href='https://www.utas.edu.au/infrastructure-services-development/sustainability/transport/decide-your-ride' target='_blank'> Decide your ride</a> is a student project with videos you can watch to map your cycling route between campus.<br><br> The University has a Sustainable Transport Strategy 2017-2021, find this and more sustainable transport resources <a href='http://www.utas.edu.au/infrastructure-services-development/sustainability/transport/sustainable-transport-options' target='_blank'> on our website</a>.",
 				"image": "./img/image_NH.10.jpg",
-				"image_alt": "The Newnham bike hub with secure bike storage and reapir stand. The bike hub has a brown wall with the UTAS logo and the words Bike Hub and AMC in bold, below is a picture of a boat on waves with the sentence ‘Pedal is the new Paddle'.",
+				"image_alt": "The Newnham bike hub with secure bike storage and repair stand. The bike hub has a brown wall with the UTAS logo and the words Bike Hub and AMC in bold, below is a picture of a boat on waves with the sentence ‘Pedal is the new Paddle'.",
 				"SDG1": 7,
 				"SDG2": 13
 			},
@@ -881,9 +881,11 @@
 				"campus": "NH",
 				"id": 11,
 				"name": "Help point",
-				"description": "The University of Tasmania takes the safety of students and staff very seriously and has a <a href='https://askus.utas.edu.au/app/answers/detail/a_id/1512/~/is-there-a-harassment-and-discrimination-policy-at-utas%3F' target='_blank'> zero bullying and harassment policy </a>. <br><br> You can now contact security at any time anywhere on campus by downloading the free <a href='https://www.utas.edu.au/campus-services/security/safe-zone' target='_blank'> Safe Zone app </a>.",
+				"description": "The University of Tasmania takes the safety of students and staff very seriously and has a <a href='https://askus.utas.edu.au/app/answers/detail/a_id/1512/~/is-there-a-harassment-and-discrimination-policy-at-utas%3F' target='_blank'> zero bullying and harassment policy </a>. <br><br> You can now contact security at any time anywhere on campus by downloading the free <a href='https://www.utas.edu.au/safety-and-wellbeing/safezone' target='_blank'> Safe Zone app </a>.",
 				"image": "./img/image_NH.11.jpg",
-				"image_alt": "A tall bright blue UTAS help point sign."
+				"image_alt": "A tall bright blue UTAS help point sign.",
+				"SDG1": 3,
+				"SDG2": 16
 			},
 			"geometry": {
 				"type": "Point",
